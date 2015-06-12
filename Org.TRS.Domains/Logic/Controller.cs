@@ -25,6 +25,7 @@ namespace Org.TRS.Domains.Logic
         /// if it is invalid command, exception will throw
         /// </returns>
         /// <exception cref="System.ArgumentOutOfRangeException"></exception>
+        /// <exception cref="System.ArgumentException"></exception>
         public string Accept(string commandText)
         {
             var result = string.Empty;
