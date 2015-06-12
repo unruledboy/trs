@@ -28,14 +28,11 @@ namespace Org.TRS.Domains.Logic
         /// <exception cref="System.ArgumentException"></exception>
         public string Accept(string commandText)
         {
-            var result = string.Empty;
             var parser = new CommandParser(commandText);
             var command = parser.Parse();
             if (command.IsValid)
-                result = Run(command);
-            else
-                throw new ArgumentException();
-            return result;
+                return Run(command);
+            throw new ArgumentException();
         }
 
         /// <summary>
