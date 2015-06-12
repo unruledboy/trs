@@ -1,0 +1,14 @@
+c:\users\huishengc\documents\visual studio 2013\Projects\ConsoleApplication5\UnitTestProject1\bin\Debug\Org.TRS.Domains.dll
+c:\users\huishengc\documents\visual studio 2013\Projects\ConsoleApplication5\UnitTestProject1\bin\Debug\Org.TRS.Domains.pdb
+c:\users\huishengc\documents\visual studio 2013\Projects\ConsoleApplication5\UnitTestProject1\obj\Debug\Org.TRS.Tests.csprojResolveAssemblyReference.cache
+c:\users\huishengc\documents\visual studio 2013\Projects\ConsoleApplication5\UnitTestProject1\bin\Debug\Org.TRS.Tests.dll
+c:\users\huishengc\documents\visual studio 2013\Projects\ConsoleApplication5\UnitTestProject1\bin\Debug\Org.TRS.Tests.pdb
+c:\users\huishengc\documents\visual studio 2013\Projects\ConsoleApplication5\UnitTestProject1\obj\Debug\Org.TRS.Tests.dll
+c:\users\huishengc\documents\visual studio 2013\Projects\ConsoleApplication5\UnitTestProject1\obj\Debug\Org.TRS.Tests.pdb
+C:\Users\huishengc\Desktop\TRS\Org.TRS.Tests\bin\Debug\Org.TRS.Tests.dll
+C:\Users\huishengc\Desktop\TRS\Org.TRS.Tests\bin\Debug\Org.TRS.Tests.pdb
+C:\Users\huishengc\Desktop\TRS\Org.TRS.Tests\bin\Debug\Org.TRS.Domains.dll
+C:\Users\huishengc\Desktop\TRS\Org.TRS.Tests\bin\Debug\Org.TRS.Domains.pdb
+C:\Users\huishengc\Desktop\TRS\Org.TRS.Tests\obj\Debug\Org.TRS.Tests.csprojResolveAssemblyReference.cache
+C:\Users\huishengc\Desktop\TRS\Org.TRS.Tests\obj\Debug\Org.TRS.Tests.dll
+C:\Users\huishengc\Desktop\TRS\Org.TRS.Tests\obj\Debug\Org.TRS.Tests.pdb
