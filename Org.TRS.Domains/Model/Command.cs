@@ -11,18 +11,22 @@ namespace Org.TRS.Domains.Model
         /// type of command
         /// </summary>
         public CommandType CommandType { get; set; }
+
         /// <summary>
         /// location in x axis
         /// </summary>
         public int X { get; set; }
+
         /// <summary>
         /// location in y axis
         /// </summary>
         public int Y { get; set; }
+
         /// <summary>
         /// indicates if the command is valid or not
         /// </summary>
         public bool IsValid { get; set; }
+
         /// <summary>
         /// facing
         /// </summary>
