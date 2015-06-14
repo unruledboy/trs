@@ -1,13 +1,22 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Org.TRS.Runner", "Org.TRS.Runner\Org.TRS.Runner.csproj", "{250E5BD8-A772-406B-B4DE-C90522C3CBD0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Org.TRS.Domains", "Org.TRS.Domains\Org.TRS.Domains.csproj", "{8698FE28-2D6E-4A5D-92F5-084DECB52577}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Org.TRS.Tests", "Org.TRS.Tests\Org.TRS.Tests.csproj", "{5130A729-44BA-49CA-A436-1BA2B41C4D1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Main", "1. Main", "{D9E77265-4142-4B00-A7A8-A9531BB58A9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Tests", "2. Tests", "{EDD8937B-23C7-422E-89D8-A4D956ADDEB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Documents", "3. Documents", "{E64EBE87-D82F-4C5C-A0EB-B184E72B7352}"
+	ProjectSection(SolutionItems) = preProject
+		RobotTest.docx = RobotTest.docx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,5 +39,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{250E5BD8-A772-406B-B4DE-C90522C3CBD0} = {D9E77265-4142-4B00-A7A8-A9531BB58A9C}
+		{8698FE28-2D6E-4A5D-92F5-084DECB52577} = {D9E77265-4142-4B00-A7A8-A9531BB58A9C}
+		{5130A729-44BA-49CA-A436-1BA2B41C4D1C} = {EDD8937B-23C7-422E-89D8-A4D956ADDEB1}
 	EndGlobalSection
 EndGlobal
